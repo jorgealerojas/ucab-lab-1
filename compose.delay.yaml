@@ -1,0 +1,4 @@
+services:
+  web1:
+    environment:
+      DELAY_MS: "2000"

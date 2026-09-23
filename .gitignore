@@ -1,0 +1,7 @@
+node_modules/
+*.log
+
+# Material privado del profesor: se conserva localmente y no se publica.
+/ANALISIS_TECNICO.md
+/docs/UCAB_Guia_Docente_Laboratorios_Unidad_1.docx
+/docs/UCAB_Guia_Docente_Laboratorios_Unidad_1.pdf

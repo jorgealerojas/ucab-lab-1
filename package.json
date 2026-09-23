@@ -1,0 +1,14 @@
+{
+  "name": "ucab-distributed-lab",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Laboratorio introductorio de sistemas distribuidos de la UCAB",
+  "scripts": {
+    "start": "node app.js",
+    "start:state": "node state-service.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
