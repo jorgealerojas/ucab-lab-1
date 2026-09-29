@@ -4,8 +4,8 @@ Repositorio listo para los laboratorios 1A y 1B de Computación en la Nube. El s
 
 ## Documentos del curso
 
-- [Guía actualizada del estudiante en PDF](docs/UCAB_Laboratorios_Unidad_1_Sistemas_Distribuidos_Actualizado.pdf)
-- [Guía actualizada del estudiante en Word](docs/UCAB_Laboratorios_Unidad_1_Sistemas_Distribuidos_Actualizado.docx)
+- [Guía ampliada del estudiante en PDF](docs/UCAB_Laboratorios_Unidad_1_Sistemas_Distribuidos_Ampliado.pdf)
+- [Guía ampliada del estudiante en Word](docs/UCAB_Laboratorios_Unidad_1_Sistemas_Distribuidos_Ampliado.docx)
 
 ```text
 cliente :8080 -> nginx -> web1 :3000 -> state :4000
